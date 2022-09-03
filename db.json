@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Feedback item 1 from the server"
+    },
+    {
+      "id": 3,
+      "rating": 2,
+      "text": "Feedback item 3 from the server"
+    },
+    {
+      "text": "Tjenare hejsan Hallå",
+      "rating": 6,
+      "id": 6
+    }
+  ]
+}
